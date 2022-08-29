@@ -3,3 +3,13 @@ G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\task41.G
 G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
 G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
 G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\bin\Debug\net6.0\task41.exe
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\bin\Debug\net6.0\task41.deps.json
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\bin\Debug\net6.0\task41.dll
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\bin\Debug\net6.0\task41.pdb
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\task41.dll
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\refint\task41.dll
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\task41.pdb
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
+G:\1_GeekBrains\Семинар C#\2826\Seminar6\task41\obj\Debug\net6.0\ref\task41.dll
